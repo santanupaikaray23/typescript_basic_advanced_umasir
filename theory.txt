@@ -1,0 +1,41 @@
+TypeScript:
+----------------
+It is a superset of javascript developed by Microsoft
+
+Superset -  Anything we can do in javascript same thing we can do in type script.
+
+compiles into javascript(browser can only read javascript)
+
+we can easily integrated to javascript projects 
+
+Designed for develoment of large application
+
+-> What does it offer?
+Static type checking
+we can use classes here
+it provides Modularity
+it comes with ES6 features(let,const)
+
+Types in TypeScript
+------------------------
+String 
+Number
+Boolean
+Array
+Anything
+viod
+null
+Tuple
+Enum
+Generics
+undefined
+
+Class based objects
+----------------------
+Object Oriented Programming
+No Prototypes
+Encapulations
+Access Modifiers
+
+
+
